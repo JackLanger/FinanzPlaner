@@ -1,0 +1,14 @@
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\bin\Debug\FinanzplanerUi.exe.config
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\bin\Debug\FinanzplanerUi.exe
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\bin\Debug\FinanzplanerUi.pdb
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\obj\Debug\FinanzplanerUi.csprojAssemblyReference.cache
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\obj\Debug\FinanzplanerUi.Form1.resources
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\obj\Debug\FinanzplanerUi.Properties.Resources.resources
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\obj\Debug\FinanzplanerUi.csproj.GenerateResource.cache
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\obj\Debug\FinanzplanerUi.csproj.CoreCompileInputs.cache
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\obj\Debug\FinanzplanerUi.exe
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\obj\Debug\FinanzplanerUi.pdb
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\bin\Debug\FinanzplanerUi.exe.manifest
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\bin\Debug\FinanzplanerUi.application
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\obj\Debug\FinanzplanerUi.exe.manifest
+C:\Users\Nutzer\source\repos\FinanzPlaner\FinanzplanerUi\obj\Debug\FinanzplanerUi.application
